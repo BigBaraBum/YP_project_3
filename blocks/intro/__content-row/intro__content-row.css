@@ -1,1 +1,6 @@
-@import url(./__text/intro__text.css);
+@import url(./__text/content-tow__text.css);
+
+.intro__content-row{
+    display: flex;
+    justify-content: space-between;
+}
