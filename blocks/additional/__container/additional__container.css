@@ -2,4 +2,7 @@
 
 .additional__container{
     display: flex;
+    justify-content: space-between;
+    max-width: 1184px;
+    position: relative;
 }
