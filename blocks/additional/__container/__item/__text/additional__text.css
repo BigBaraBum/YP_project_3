@@ -8,5 +8,7 @@ line-height: 20px;
 
 color: #FFFFFF;
 margin: 0 18px 30px;
-opacity: 2;
+
+position: inherit;
+z-index: 5;
 }

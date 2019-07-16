@@ -7,3 +7,6 @@
     opacity: 0.5;
     border-radius: 5px;
 }
+.additional__item-bg:hover{
+    opacity: 0.2;
+}

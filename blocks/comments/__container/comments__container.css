@@ -1,4 +1,5 @@
 @import url(./comment/comment.css);
 .comments__container{
     display: flex;
+    width: 100%;
 }

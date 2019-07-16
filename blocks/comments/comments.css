@@ -1,4 +1,5 @@
 @import url(./__container/comments__container.css);
 .comments{
-
+    margin-bottom: 102px;
+    width: 100%;
 }

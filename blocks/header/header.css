@@ -1,3 +1,9 @@
+@import url(./__logo/header__logo.css);
+@import url(./__lang/header__lang.css);
+
 .header {
-    width: 1184px;
+    width: 100%;
+    position: relative;
+    display: flex;
+    justify-content: flex-end;
 }

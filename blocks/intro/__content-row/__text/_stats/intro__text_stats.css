@@ -1,0 +1,12 @@
+.intro__text_stats{
+    font-family: Inter;
+font-style: normal;
+font-weight: bold;
+font-size: 13px;
+line-height: 20px;
+
+color: #FFFFFF;
+}
+.intro__text_stats span{
+    font-weight: normal;
+}

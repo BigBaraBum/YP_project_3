@@ -5,3 +5,6 @@
     border-radius: 5px;
     top: 0;
 }
+.video__item-bg:hover{
+    opacity: 0.2;
+}
