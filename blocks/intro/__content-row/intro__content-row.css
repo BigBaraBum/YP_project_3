@@ -1,4 +1,6 @@
 @import url(./__text/intro__text.css);
+@import url(./__text-author/intro__text-author.css);
+@import url(./__text-stats/intro__text-stats.css);
 
 .intro__content-row{
     display: flex;

@@ -1,0 +1,11 @@
+@import url(./__number/intro__number.css);
+
+.intro__text-stats{
+    font-family: «Inter», «Arial»,  sans-serif;
+     
+    font-weight: bold;
+    font-size: 13px;
+    line-height: 20px;
+    color: #FFFFFF;
+    white-space: pre-line;
+}

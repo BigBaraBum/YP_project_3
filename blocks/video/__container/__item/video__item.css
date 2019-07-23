@@ -6,7 +6,7 @@
 
 .video__item{
     width: 583px;
-    height:323px;
+    min-height:323px;
     background-size: cover;
     position: relative;
     display: flex;
