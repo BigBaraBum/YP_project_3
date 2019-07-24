@@ -1,14 +1,10 @@
-.cover__title{
-     
- 
-font-weight: 900;
-font-size: 72px;
-line-height: 78px;
-text-align: center;
-
-color: #FFFDFD;
-position: inherit;
-z-index: 5;
-margin: 274px auto 134px;
-
+.cover__title {
+    font-weight: 900;
+    font-size: 72px;
+    line-height: 78px;
+    text-align: center;
+    color: #FFFDFD;
+    position: inherit;
+    z-index: 5;
+    margin: 274px auto 134px;
 }

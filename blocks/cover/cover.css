@@ -1,8 +1,7 @@
 @import url(./__title/cover__title.css);
 @import url(./__subtitle/cover__subtitle.css);
 @import url(./cover-bg/cover-bg.css);
-
-.cover{
+.cover {
     position: relative;
     display: flex;
     flex-direction: column;

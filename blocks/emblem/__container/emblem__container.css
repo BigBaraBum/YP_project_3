@@ -1,5 +1,4 @@
 @import url(./__item/emblem__item.css);
-
-.emblem__container{
-    display: flex;    
+.emblem__container {
+    display: flex;
 }

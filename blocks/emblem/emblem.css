@@ -1,7 +1,6 @@
 @import url(./__title/emblem__title.css);
 @import url(./__container/emblem__container.css);
-
-.emblem{
+.emblem {
     position: relative;
     margin-bottom: 85px;
 }

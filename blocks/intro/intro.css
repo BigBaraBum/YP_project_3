@@ -1,8 +1,7 @@
 @import url(./__content-row/intro__content-row.css);
 @import url(./__subtitle/intro__subtitle.css);
 @import url(./__title/intro__title.css);
-
-.intro{
+.intro {
     margin-bottom: 92px;
     width: 984px;
 }

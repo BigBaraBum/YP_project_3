@@ -1,12 +1,9 @@
-.additional__heading{
-     
- 
-font-weight: 900;
-font-size: 27px;
-line-height: 29px;
-color: #FFFFFF;
-margin: 30px 18px 161px;
-position: inherit;
-z-index: 5;
+.additional__heading {
+    font-weight: 900;
+    font-size: 27px;
+    line-height: 29px;
+    color: #FFFFFF;
+    margin: 30px 18px 161px;
+    position: inherit;
+    z-index: 5;
 }
- 

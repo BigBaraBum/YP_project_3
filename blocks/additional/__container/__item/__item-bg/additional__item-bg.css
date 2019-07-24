@@ -1,4 +1,4 @@
-.additional__item-bg{
+.additional__item-bg {
     width: 284px;
     height: 330px;
     background-size: cover;
@@ -7,9 +7,12 @@
     opacity: 0.5;
     border-radius: 5px;
 }
-.additional__item-bg:hover{
+
+.additional__item-bg:hover {
     opacity: 0.2;
 }
+
+
 /*
 Можно улучшить:
 Уберите абсолютное изображение и загрузите фоновое изображение для элемента.

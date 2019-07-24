@@ -1,7 +1,6 @@
 @import url(./__container/footer__container.css);
 @import url(./__copyright/footer__copyright.css);
-
-.footer{
+.footer {
     width: 1184px;
     display: flex;
     margin: 0 auto;

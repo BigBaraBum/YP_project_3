@@ -1,15 +1,8 @@
-.comment__quote{
-     
- 
-font-weight: normal;
-font-size: 14px;
-line-height: 24px;
-
-color: #FFFFFF;
-max-width: 382px;
-margin: 42px 0 24px;
+.comment__quote {
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 24px;
+    color: #FFFFFF;
+    max-width: 382px;
+    margin: 42px 0 24px;
 }
- 
-По поводу шрифта. Нет необходимости подлючать к каждому текстовому блоку один и тот же шрифт.
-Задайте его для всей страницы и не дублируйте в каждом блоке.
-*/

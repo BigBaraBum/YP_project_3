@@ -1,13 +1,16 @@
-.cover-bg{
+.cover-bg {
     position: absolute;
     max-width: 1184px;
     top: 0;
     left: 0;
     opacity: 0.3;
 }
-.cover-bg:hover{
+
+.cover-bg:hover {
     opacity: 0.2;
 }
+
+
 /*
 Можно улучшить:
 Уберите абсолютное изображение и загрузите фоновое изображение для элемента.

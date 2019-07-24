@@ -1,15 +1,9 @@
-.additional__text{
-
- 
- 
-font-weight: normal;
-font-size: 14px;
-line-height: 20px;
-
-color: #FFFFFF;
-margin: 0 18px 30px;
-
-position: inherit;
-z-index: 5;
+.additional__text {
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 20px;
+    color: #FFFFFF;
+    margin: 0 18px 30px;
+    position: inherit;
+    z-index: 5;
 }
- 

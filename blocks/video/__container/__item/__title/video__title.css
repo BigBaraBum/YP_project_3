@@ -1,12 +1,9 @@
-.video__title{
-     
- 
-font-weight: 900;
-font-size: 36px;
-line-height: 39px;
-
-color: #FFFFFF;
-max-width: 322px;
-margin: 0 0 18px 30px;
-z-index: 1;
+.video__title {
+    font-weight: 900;
+    font-size: 36px;
+    line-height: 39px;
+    color: #FFFFFF;
+    max-width: 322px;
+    margin: 0 0 18px 30px;
+    z-index: 1;
 }

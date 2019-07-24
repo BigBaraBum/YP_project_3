@@ -1,13 +1,16 @@
-.video__item-bg{
+.video__item-bg {
     opacity: 0.5;
     max-width: 583px;
     position: absolute;
     border-radius: 5px;
     top: 0;
 }
-.video__item-bg:hover{
+
+.video__item-bg:hover {
     opacity: 0.2;
 }
+
+
 /*
 Моэно улучшить:
 Уберите абсолютное изображение и загрузите фоновое изображение для элемента.

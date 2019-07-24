@@ -1,13 +1,9 @@
 @import url(./_author/intro__text_author.css);
 @import url(./_stats/intro__text_stats.css);
-
-.intro__text{
-     
-     
+.intro__text {
     font-weight: normal;
     font-size: 14px;
-    line-height: 24px;    
+    line-height: 24px;
     color: #FFFFFF;
-
     max-width: 683px;
 }

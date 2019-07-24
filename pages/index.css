@@ -1,4 +1,4 @@
-@import url(../blocks/link/link.css);
+@import url('../blocks/link/link.css');
 @import url('../blocks/header/header.css');
 @import url('../blocks/content-title/content-title.css');
 @import url('../blocks/content-subtitle/content-subtitle.css');
@@ -9,18 +9,33 @@
 @import url('../blocks/video/video.css');
 @import url('../blocks/additional/additional.css');
 @import url('../blocks/comments/comments.css');
-@import url(../blocks/cover/cover.css);
-@import url(../blocks/emblem/emblem.css);
-@import url(../blocks/barentsburg/barentsburg.css);
-@import url(../blocks/footer/footer.css);
-@import url(../vendors/Inter/inter.css);
+@import url('../blocks/cover/cover.css');
+@import url('../blocks/emblem/emblem.css');
+@import url('../blocks/barentsburg/barentsburg.css');
+@import url('../blocks/footer/footer.css');
+@import url('../vendors/Inter/inter.css');
+
+/*
+Можно улучшить:
+Проставьте кавычки для всех подключений стилевых файлов.
+*/
+
 .page {
     max-width: 1440px;
     min-width: 1100px;
     margin: 0 auto;
-    font-family: «Inter», «Arial», sans-serif;
+    font-family: 'Inter', 'Arial', sans-serif;
     font-style: normal;
 }
+
+
+/*
+Нужно исправить:
+Замените кавычки, чтобы шрифт работал:
+font-family: 'Inter', 'Arial', sans-serif;
+
+Заменить кавычки нужно во всех местах, где прописан font-family
+*/
 
 .content {
     max-width: 1184px;

@@ -1,9 +1,9 @@
 @import url(./__city/emblem__city.css);
 @import url(./__image/emblem__image.css);
-
-.emblem__item{
+.emblem__item {
     margin-right: 56px;
 }
-.emblem__item:last-of-type{
+
+.emblem__item:last-of-type {
     margin-right: 0;
 }

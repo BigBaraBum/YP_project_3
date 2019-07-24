@@ -1,6 +1,5 @@
 @import url(./__item/video__item.css);
-
-.video__container{
+.video__container {
     display: flex;
     justify-content: space-between;
 }
